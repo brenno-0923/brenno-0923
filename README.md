@@ -1,4 +1,4 @@
-## Oi eu sou o Brenno, seja Bem vindo aos meus projetos:
+## Olá, sou Brenno, um analista e desenvolvedor de sistemas em constante busca por inovação e excelência técnica!👨🏽‍💻
 
 <div>
   
