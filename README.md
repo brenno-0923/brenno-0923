@@ -23,10 +23,9 @@
 
 <h1> Sobre Mim🦅 </h1>
 
-💻Cursando o 5 semestre em análise e desenvolvimento de sistemas  <br>
+💻Formado em análise e desenvolvimento de sistemas  <br>
 💡Determinação e foco <br>
 📚Cursos complementares na área de programação <br>
-🔒Estagiando... <br>
 
 <div>  
   <h1 align="center">Redes Sociais 📗 </h1>
